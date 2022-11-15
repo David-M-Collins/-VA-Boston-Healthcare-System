@@ -40,7 +40,8 @@ Using Extra Tree Regression as my algorithm was done due to me using both catego
   I analyzed my model using MSE and R2 values for training and test data to identify the features I chose
   and to test my data cleaning and analysis. There are clear signs for improvment in both and given more 
   time I would have scrubbed through the data more throughly, engineered features better reflecting the 
-  data, and created a more true model. 
+  data, and created a more true model. I would have also incorporated the geneomics.csv into more of my
+  analysis and identify relationships with the other variables and features.
   
 With more data, I would be able to better utilize the other features that I had to discard, and with the 
   help of a subject matter expert, I would have been able to better select which features I should focus
